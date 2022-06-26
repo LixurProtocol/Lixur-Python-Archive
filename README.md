@@ -7,7 +7,7 @@
 ![image](https://img.shields.io/badge/type-Testnet%20Beta-informational)
 
 
-### Ancient Python Code ?
+### This is the Ancient Python Code for Lixur
 This was the first ancient implementation of Lixur in Python (November 2nd, 2021 - May 12th, 2022).
 Recoded in Rust due to abysmal transactions per second (3 tps without JIT compilation and 16 tps with JIT compilation), and also general latency and performance indequacy. The Testnet Beta did work fine but it wasn't up to what Lixur is supposed to be, therefore I coded it in Rust.
 
